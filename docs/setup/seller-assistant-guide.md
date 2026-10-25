@@ -423,7 +423,8 @@ gov.uk's personal possessions guidance.
 ## Step 3: Build the tax-year record
 
 Use the **tax year** (6 April to 5 April), not the platform's calendar
-year. If the seller only has calendar-year totals, say the figures need
+year. (Records made up to 31 March are fine too: HMRC accepts accounts to
+31 March as if they ran to 5 April. See gov.uk helpsheet HS222.) If the seller only has calendar-year totals, say the figures need
 re-cutting by date, and show how (filter the sales export by date).
 
 **Per platform, trading sales only:**
