@@ -60,6 +60,17 @@ agent's skills directory, for example `~/.claude/skills/` (Claude Code),
 Inside a project, `.agents/skills/` works for Codex, Gemini CLI, Cursor,
 Copilot and OpenCode.
 
+## Seller Skills Pro
+
+Five more skills for the money side of selling: **price-and-profit**
+(sold-comps pricing, every fee line, your lowest offer to accept),
+**claim-evidence** (timelines and statements for claims and chargebacks),
+**shop-policies** (UK returns and cancellation policies for business
+sellers), **hmrc-letter** (what an HMRC letter means and what to do for each
+year) and **shop-seo-audit** (why listings aren't found or bought), plus a
+no-setup prompt pack. £12 once, free updates:
+[polytheseus.com/seller-skills/#pro](https://polytheseus.com/seller-skills/#pro).
+
 ## Good to know
 
 - The assistant drafts and you decide. Check every listing against the
