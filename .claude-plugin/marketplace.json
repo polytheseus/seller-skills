@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "seller-skills",
+  "description": "AI skills for online sellers and resellers on Vinted, eBay, Etsy, Depop and Facebook Marketplace: honest listings that get found, calm replies to buyers and claims, and tax-year sales records for UK sellers. Works in ChatGPT, Gemini, Claude, Codex, Cursor and more.",
+  "owner": {
+    "name": "polytheseus",
+    "email": "346939316+polytheseus@users.noreply.github.com"
+  },
+  "plugins": [
+    {
+      "name": "seller",
+      "description": "Search-friendly listings with honest condition grades and photo checklists, platform-safe replies to offers, questions and disputes, and UK tax-year sales records (personal vs trading, trading allowance vs expenses, platform reporting to HMRC).",
+      "source": "./plugins/seller",
+      "category": "productivity",
+      "author": { "name": "polytheseus" },
+      "homepage": "https://polytheseus.com/seller-skills/"
+    }
+  ]
+}
