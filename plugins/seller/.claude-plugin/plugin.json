@@ -1,9 +1,31 @@
 {
   "name": "seller",
+  "displayName": "Seller Skills",
   "description": "Search-friendly listings with honest condition grades and photo checklists, platform-safe replies to offers, questions and disputes, and UK tax-year sales records (personal vs trading, trading allowance vs expenses, platform reporting to HMRC).",
-  "version": "0.1.0",
-  "author": { "name": "polytheseus" },
+  "version": "0.1.1",
+  "author": {
+    "name": "polytheseus"
+  },
   "homepage": "https://polytheseus.com/seller-skills/",
   "license": "MIT",
-  "keywords": ["vinted", "ebay", "etsy", "depop", "facebook-marketplace", "reselling", "reseller", "side-hustle", "listings", "customer-service", "hmrc", "self-assessment", "uk-tax"]
+  "keywords": [
+    "vinted",
+    "ebay",
+    "etsy",
+    "depop",
+    "facebook-marketplace",
+    "reselling",
+    "reseller",
+    "side-hustle",
+    "listings",
+    "customer-service",
+    "hmrc",
+    "self-assessment",
+    "uk-tax"
+  ],
+  "repository": "https://github.com/polytheseus/seller-skills",
+  "documentationUrl": "https://github.com/polytheseus/seller-skills/tree/main/plugins/seller#readme",
+  "supportUrl": "https://github.com/polytheseus/seller-skills/issues",
+  "privacyPolicyUrl": "https://polytheseus.com/privacy",
+  "termsOfServiceUrl": "https://polytheseus.com/terms"
 }
