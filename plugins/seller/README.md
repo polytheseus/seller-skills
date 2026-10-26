@@ -1,4 +1,4 @@
-# Seller Skills
+# Polytheseus Seller Skills
 
 **Free AI skills for people who sell online on Vinted, eBay, Etsy, Depop
 and Facebook Marketplace: listings that buyers can find, calm replies to
