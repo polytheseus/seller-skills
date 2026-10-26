@@ -8,11 +8,13 @@
   },
   "plugins": [
     {
-      "name": "seller",
+      "name": "polytheseus-seller",
       "description": "Search-friendly listings with honest condition grades and photo checklists, platform-safe replies to offers, questions and disputes, and UK tax-year sales records (personal vs trading, trading allowance vs expenses, platform reporting to HMRC).",
       "source": "./plugins/seller",
       "category": "productivity",
-      "author": { "name": "polytheseus" },
+      "author": {
+        "name": "polytheseus"
+      },
       "homepage": "https://polytheseus.com/seller-skills/"
     }
   ]

@@ -50,7 +50,7 @@ all projects.
 
 ```
 /plugin marketplace add polytheseus/seller-skills
-/plugin install seller@seller-skills
+/plugin install polytheseus-seller@seller-skills
 ```
 
 **Manual:** copy the folders in `plugins/seller/skills/` into your
