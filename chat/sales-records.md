@@ -98,23 +98,35 @@ Then a total row. Rules:
 ## Step 4: Trading allowance or expenses?
 
 HMRC's trading allowance is up to **£1,000 a year** of tax-free trading
-income (check gov.uk for the current figure).
+income for the 2025/26 and 2026/27 tax years. The Autumn Budget
+(28 October 2026) announced a rise to **£3,000 from 6 April 2027** (the
+2027/28 tax year), with the point at which trading income must be
+reported through Self Assessment rising with it. Until the law passes and
+HMRC updates its guidance, call £3,000 "announced", and check gov.uk for
+the current figure.
 
-- **Gross trading income £1,000 or less:** the allowance usually covers it
+Work out which tax year the sales fall in first (6 April to 5 April),
+then use that year's figure. Never apply £3,000 to sales made before
+6 April 2027.
+
+- **Gross trading income at or below the allowance** (£1,000 up to
+  2026/27; £3,000 announced from 2027/28): the allowance usually covers it
   and the seller may not need to tell HMRC (unless something else means
   they must file a return). They still need to keep records.
-- **Over £1,000:** they must register for Self Assessment. They then choose
-  **either** the £1,000 allowance **or** their actual expenses, not both.
+- **Over the allowance:** they must register for Self Assessment. They then
+  choose **either** the allowance **or** their actual expenses, not both.
 
 Show both options side by side:
 
 | | Use the allowance | Use actual expenses |
 |---|---|---|
 | Gross trading income | £ | £ |
-| Deduction | £1,000 | £[total costs] |
+| Deduction | £[allowance for that year] | £[total costs] |
 | Taxable profit | £ | £ |
 
-The better choice is usually the larger deduction. Point out that if
+The better choice is the larger deduction, which gives the lower taxable
+profit. Work that out before writing the answer and say it the same way
+everywhere (opening line, table and choice). Point out that if
 expenses exceed income, claiming expenses (and a loss) may be better.
 For the actual tax, send them to
 [sellertaxcalculator.co.uk](https://sellertaxcalculator.co.uk) (a free UK
@@ -175,7 +187,7 @@ each item.
 - [ ] Allowance and expenses are never both deducted.
 - [ ] Every total is recalculated; no invented figures; gaps marked.
 - [ ] The platform report is explained as information, not a tax bill.
-- [ ] Thresholds (£1,000, 30 sales / €2,000, £6,000) are framed as gov.uk
+- [ ] Thresholds (£1,000 to 2026/27 and £3,000 announced from 2027/28, 30 sales / €2,000, £6,000) are framed as gov.uk
       figures to check.
 - [ ] Clearly an estimate, not tax advice, with gov.uk or an accountant
       named for anything unusual.
