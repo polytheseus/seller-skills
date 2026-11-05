@@ -159,11 +159,21 @@ or it goes back several years.
 
 ## Step 6: Dates and what to keep
 
-For the 2025/26 tax year (6 April 2025 to 5 April 2026), check gov.uk for
+First work out the **first tax year** in which they needed to register:
+the deadline is 5 October after that tax year ends. Check gov.uk for
 current dates:
-- **Register for Self Assessment** by **5 October 2026** if it's the first
-  time.
-- **Online return and any tax due:** **31 January 2027**.
+- **2025/26** (6 April 2025 to 5 April 2026): register by **5 October
+  2026** if it's the first time; online return and any tax due by
+  **31 January 2027**.
+- **2026/27** (6 April 2026 to 5 April 2027): register by **5 October
+  2027**; return and tax by **31 January 2028**. A deadline for 2025/26
+  doesn't apply to 2026/27 sales.
+- **Missed the 5 October date?** Say so calmly: register now. HMRC's
+  letter or email then sets a filing date 3 months from the date it was
+  sent, but any tax is still due by 31 January. A late-registration
+  ("failure to notify") penalty is based on tax left unpaid after
+  31 January, so paying in full by then is the way to avoid one (gov.uk
+  factsheet CCFS11). Don't add penalties beyond that.
 - **Keep records** (sales exports, fee statements, receipts for stock and
   costs, postage) for at least 5 years after the 31 January filing date.
 
