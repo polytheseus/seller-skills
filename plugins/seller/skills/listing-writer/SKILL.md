@@ -19,7 +19,8 @@ Most listings that don't sell fail in the same few ways:
 This skill writes the listing and tells the seller what to photograph. You
 draft and the seller checks it against the item in their hand. Never invent
 a brand, material, size, measurement or condition detail the seller didn't
-give.
+give. Copy a size as given: if the notes say "M", don't
+write "M (UK)" or convert it.
 
 ## Step 1: Get the facts
 
@@ -71,7 +72,8 @@ key spec + condition if it's a selling point.
   allows more but shows only the start in search, so front-load the key
   words). Check current limits in the platform's help pages if unsure.
 - Spell the size the way the platform's filters do (UK 10, M, W32 L30,
-  EU 38).
+  EU 38), using only what's on the label or in the notes. If the country
+  isn't given, mark it: `[UK or EU?]`.
 
 ## Step 3: Grade the condition honestly
 
