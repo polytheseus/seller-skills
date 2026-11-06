@@ -68,6 +68,16 @@ From the pasted message plus a few questions (ask at most three):
 - **Keep it on the platform.** No phone numbers, emails or payment links.
 - **Never admit fault you don't believe**, and never accuse the buyer of
   lying. Let the evidence and the platform's process decide.
+- **Facts come from the seller.** Reasons in a counter ("barely worn",
+  "retails at £y"), condition, measurements, posting dates and what the
+  listing said come from the seller's message or listing. Otherwise leave
+  a placeholder (`[reason]`, `[condition]`) and tell the seller to fill it
+  in. The partial-refund amount is the seller's call: leave `£[x]` and
+  don't quote a "usual" amount or claim window from memory.
+- **Read "tomorrow", "tonight" and "yesterday" from when the buyer sent
+  the message**, not from now, and say which day you took it to mean. A
+  message sent on Wednesday night saying "I'll open a claim tomorrow" means
+  Thursday, which may already have passed.
 - **Never promise a refund outside the platform's process.**
 - Give the seller **two versions** when the tone matters: a friendlier one
   and a firmer one.
@@ -84,7 +94,11 @@ From the pasted message plus a few questions (ask at most three):
 Walk the seller through it in this order:
 
 1. **Ask for photos** in the platform's chat or claim flow: the issue, the
-   label, the packaging.
+   label, the packaging. The first reply to a complaint stays neutral:
+   "Sorry to hear that. Could you send photos of [the issue] through
+   [platform] so I can take a look?" Don't write "sorry it isn't as
+   described", "I should have checked" or "I missed it" until the seller
+   has seen the photos and agrees: that admission can decide a claim.
 2. **Compare with the listing.** Was the flaw disclosed and photographed?
    Is the size or colour what the listing said?
 3. **Decide**, and draft the matching reply:
@@ -149,4 +163,7 @@ to check, and don't present this as legal advice.
       the platform's claim flow; the seller is told to check the deadline.
 - [ ] Returns wording matches private vs business seller.
 - [ ] No insults, sarcasm or accusations, even if the buyer was rude.
+- [ ] Complaints: the first reply asks for photos and admits nothing yet.
+- [ ] Reasons, condition and dates are the seller's own, or a `[placeholder]`;
+      "tomorrow" is read from the buyer's send time, and the day is stated.
 - [ ] Not legal advice: rules framed as things to check.
