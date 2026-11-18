@@ -1,0 +1,35 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "polytheseus-seller-skills",
+  "displayName": "Polytheseus Seller Skills",
+  "version": "0.1.6",
+  "description": "Search-friendly listings with honest condition grades and photo checklists, platform-safe replies to offers, questions and disputes, and UK tax-year sales records (personal vs trading, trading allowance vs expenses, platform reporting to HMRC).",
+  "logo": "plugins/seller/.claude-plugin/icon.png",
+  "suggestedPrompts": [
+    "Write a listing for this jacket, flaws included",
+    "Reply to a buyer who says the item arrived damaged",
+    "Set up a simple sales record for my Vinted and eBay sales"
+  ],
+  "author": {
+    "name": "polytheseus",
+    "url": "https://polytheseus.com"
+  },
+  "homepage": "https://polytheseus.com/seller-skills/",
+  "repository": "https://github.com/polytheseus/seller-skills",
+  "license": "MIT",
+  "keywords": [
+    "vinted",
+    "ebay",
+    "etsy",
+    "depop",
+    "facebook-marketplace",
+    "reselling",
+    "reseller",
+    "side-hustle",
+    "listings",
+    "customer-service",
+    "hmrc",
+    "self-assessment",
+    "uk-tax"
+  ]
+}
