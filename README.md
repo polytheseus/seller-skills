@@ -53,6 +53,14 @@ all projects.
 /plugin install polytheseus-seller@seller-skills
 ```
 
+**Gemini CLI extension:**
+
+```
+gemini extensions install https://github.com/polytheseus/seller-skills
+```
+
+Update later with `gemini extensions update --all`.
+
 **Manual:** copy the folders in `plugins/seller/skills/` into your
 agent's skills directory, for example `~/.claude/skills/` (Claude Code),
 `~/.agents/skills/` (Codex), `~/.gemini/skills/` (Gemini CLI),
